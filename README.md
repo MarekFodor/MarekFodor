@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @MarekFodor
+- Junior Fullstack dev
+- 📫 How to reach me marek.fodor@aomvsr.sk
